@@ -1,4 +1,4 @@
-name: ai-lab
+name: ai
 channels:
   - defaults
 dependencies:
